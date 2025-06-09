@@ -1,0 +1,11 @@
+br\com\petshop\ConnectionFactory.class
+br\com\petshop\AnimalDAO.class
+br\com\petshop\Gato.class
+br\com\petshop\GerenciadorPetshop.class
+br\com\petshop\ConsultaVeterinaria.class
+br\com\petshop\OutroAnimal.class
+br\com\petshop\Animal.class
+br\com\petshop\Banho.class
+br\com\petshop\Cachorro.class
+br\com\petshop\Servico.class
+br\com\petshop\Tosa.class
